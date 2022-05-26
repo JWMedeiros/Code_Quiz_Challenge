@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Module 4 Challenge</title>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link rel="stylesheet" type="text/css" href="./assets/reset.css">
+        <link rel="stylesheet" type="text/css" href="./assets/style.css" />
+    </head>
+
+    <body>
+        <header>
+            <button id="scores-btn">High Scores</button>
+            <p>Time: 0          Score: 0</p>
+        </header>
+
+        <section id="main">
+            <h1 class="visible">Code Quiz Challenge!</h1>
+            <p class="visible">Welcome to the challenge! Hit the start button to begin playing the game! The rules are simple, answer questions right to earn points.
+            You will lose 10 seconds for every wrong answer, and the game is over when the timer runs out. Feel free to view the high scores as well.
+            </p>
+            <button id="start-btn" class="visible">Start Quiz</button>
+            <section class="container hidden">
+                <li class="hidden" id="q1"></li>
+                <li class="hidden" id="q2"></li>
+                <li class="hidden" id="q3"></li>
+                <li class="hidden" id="q4"></li>
+            </section>
+            <h2 class="hidden"></h2>
+            <form method="POST" class="hidden">
+                <div class="input">
+                  <label for="name">Name</label>
+                  <input type="text" name="name" id="name"/>
+                </div>
+                <button id="sign-up">Submit Name</button>
+              </form>
+        </section>
+        <script src="./assets/script.js"></script>
+    </body>
+</html>
