@@ -1,4 +1,4 @@
-# Module_4_Challenge
+# Code_Quiz_Challenge
 
 Module 4 Challenge created as part of the University of Toronto coding bootcamp on May 25, 2022.
 Please check out the fully functioning application page and take the quiz here: https://jwmedeiros.github.io/Module_4_Challenge/
