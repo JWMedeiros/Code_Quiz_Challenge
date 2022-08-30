@@ -34,6 +34,9 @@
   Please visit the deployed application here: https://jwmedeiros.github.io/Code_Quiz_Challenge/
 
   Screenshots of the deployed application: 
+  ![image](https://user-images.githubusercontent.com/44784107/187517427-997aeedd-ae2e-46d3-9f36-569c4376c9f7.png)
+  
+  ![image](https://user-images.githubusercontent.com/44784107/187517581-8aff20a4-beb8-45ac-9e6f-0e625da8dd64.png)
 
   
   # License
